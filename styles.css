@@ -1008,6 +1008,8 @@ footer {
   background-image: url(image/BG.png);
   display: flex;
   justify-content: space-between;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 
@@ -1195,6 +1197,10 @@ footer {
 
 .icon__check {
   color: #ff5f49;
+}
+
+body {
+  overflow-x: hidden;
 }
 
 @media (max-width: 768px) {
@@ -1445,3 +1451,4 @@ footer {
     font-size: 25px;
   }
 }
+
