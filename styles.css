@@ -161,7 +161,7 @@ header {
 }
 
 .info__sub--heading {
-  color: #504747;
+  color: #274577;
   line-height: 1.5;
 }
 
@@ -236,7 +236,7 @@ header {
 
 .info__sec--sub__heading {
   margin-top: 20px;
-  color: #333;
+  color: #5a729b;
 }
 
 .info__sec--row {
@@ -1041,7 +1041,7 @@ footer {
 
 .footer__container--big {
   color: #0d2159;
-  font-size: 30px;
+  font-size: 25px;
   margin-top: 20px;
 }
 
@@ -1103,6 +1103,7 @@ footer {
 
 .footer__container--media {
   font-size: 13px;
+  font-weight: 600;
   text-transform: uppercase;
   margin-bottom: 10px;
   color: #0d2159;
